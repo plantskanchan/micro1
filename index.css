@@ -25,7 +25,7 @@ h1{
 }
 .btn-a{
     padding: 0.6rem 1.2rem;
-    background-color: black;
+    background-color: white;
     color: black;
     border-radius: 20px;
 }
@@ -85,7 +85,7 @@ h1{
     text-align: center;
 }
 .landing-section-right img{
-    width: 400px;
+    width: 600px;
     border-radius: 24px;
 }
 
