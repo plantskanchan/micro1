@@ -73,7 +73,7 @@ h1{
     flex-direction: column;
     gap: 1rem;
     max-width: 500px;
-    color: white;
+    color: black;
 }
 .landing-section-left img{
     width: 100px;
@@ -85,8 +85,8 @@ h1{
     text-align: center;
 }
 .landing-section-right img{
-    width: 800px;
-    border-radius: 24px;
+    width: 1600px;
+    border-radius: 64px;
 }
 
 
