@@ -11,7 +11,7 @@ body{
     height: 100%;
     overflow-x: hidden;
     background-color: #f9f9f9;
-    background-image: linear-gradient(315deg, #f9f9f9 0%, #2951D8 74%);
+    background-image: linear-gradient(315deg, #f9f9f9 0%, #f0f1f5 74%);
 }
 a{
     text-decoration: none;
@@ -30,7 +30,7 @@ h1{
     border-radius: 20px;
 }
 .btn-a:hover{
-    background-color: #2951D8;
+    background-color: #f0f1f5;
     color: black;
 }
 
@@ -64,7 +64,7 @@ h1{
     gap: 2rem;
     flex-wrap: wrap;
     /* background-color: #f9f9f9;
-    background-image: linear-gradient(315deg, #f9f9f9 0%, #2951D8 74%); */
+    background-image: linear-gradient(315deg, #f9f9f9 0%, #f0f1f5 74%); */
     min-height: 100vh;
     padding-top: 5rem;
 }
